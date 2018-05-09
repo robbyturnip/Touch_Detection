@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikasi_7</string>
+    <string name="sample_action">Clear Text</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            Welcome to Basic Gesture Detect!
+            In order to try this sample out, try dragging or tapping this text to see what happens!
+
+
+        ]]>
+    </string>
+</resources>
